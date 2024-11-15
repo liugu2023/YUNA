@@ -1,3 +1,4 @@
+//运维部第一次授课课后作业
 #include <stdio.h>
 #include <math.h>
 #include <time.h>
